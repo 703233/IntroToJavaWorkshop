@@ -38,6 +38,7 @@ public class MadlibsOfTheAmazon {
 				+ "l most likely take a bite out of your " + b + " if you " + c + ". /n Whatever"
 						+ " you do, if you have an open wound, try to find another way to get bac"
 						+ "k to the " + d + ". Good luck!" );
+		//
 
 	}
 }
